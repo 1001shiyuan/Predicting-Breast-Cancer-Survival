@@ -11,14 +11,14 @@ The dataset used in this project is the **METABRIC (Molecular Taxonomy of Breast
 - **Dataset Source**:
   - [METABRIC dataset on Kaggle](https://www.kaggle.com/datasets/raghadalharbi/breast-cancer-gene-expression-profiles-metabric)
 - **Primary Dataset**:
-  - `METABRIC_RNA_Mutation.csv`: Contains gene expression data, clinical data, and survival outcomes.
+  - **METABRIC_RNA_Mutation.csv**: Contains gene expression data, clinical data, and survival outcomes.
 
 ## Pipeline
 
 1. **Download the Script and Dataset**:
-   - Download the Jupyter notebook script (`ee5573_project.ipynb`) and the **METABRIC_RNA_Mutation.csv** dataset from this GitHub repository.
+   - Download the Jupyter notebook script **ee5573_project.ipynb** and the dataset **METABRIC_RNA_Mutation.csv** from this GitHub repository.
    
 2. **Run the Script**:
-   - Open the `ee5573_project.ipynb` file in **Jupyter Notebook**.
+   - Open the **ee5573_project.ipynb** file in Jupyter Notebook.
    - Ensure that the **METABRIC_RNA_Mutation.csv** file is in the same directory as the script.
    - Run the cells in the script sequentially to preprocess the data, train the machine learning models, and evaluate the results.
